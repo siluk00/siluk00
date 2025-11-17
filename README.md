@@ -8,4 +8,5 @@
 - 🌀 I love functional programming languages and metaprogramming
 - 🌱 I’m currently learning the architecture of microservices
 - 🧩 I'm a mathematics enthusiast (category theory, algebraic topology and homological algebra)
+- 🇸🇦 Learning Arabic and Middle egyptian 
 
