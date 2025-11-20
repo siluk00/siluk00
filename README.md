@@ -1,12 +1,8 @@
 ## Hi there, Felipe here 👋
 
-<!--
-**siluk00/siluk00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- 💻 I'm using golang as my main language it's been almost two years with focus on distributed systems
-- 🔭 I’m currently working on a Task Scheduler project and a WAL that I'll integrate with gRPC
-- 🌀 I love functional programming languages and metaprogramming
-- 🌱 I’m currently learning the architecture of microservices
-- 🧩 I'm a mathematics enthusiast (category theory, algebraic topology and homological algebra)
-- 🇸🇦 Learning Arabic and Middle egyptian 
-
+💻 **Main Languages:** Go, Elixir, C (2 years Go focus on distributed systems)  
+🔭 **Current Work:** Task Scheduler project & WAL integration with gRPC  
+🌀 **Interests:** Functional programming & metaprogramming  
+🌱 **Learning:** Microservices architecture  
+🧮 **Math Enthusiast:** Category theory, algebraic topology, homological algebra  
+🌍 **Languages:** Learning Arabic and Middle Egyptian
